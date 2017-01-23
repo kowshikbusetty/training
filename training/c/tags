@@ -1,0 +1,191 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DEC	Assignment_1/int_valid.c	4;"	d	file:
+DEC	Assignment_1/int_valid_1.c	4;"	d	file:
+DEC	Assignment_1/valid.c	3;"	d	file:
+MAX	Assignment_1/Assignment_1_1.c	6;"	d	file:
+MAX	Assignment_1/int_valid.c	5;"	d	file:
+MAX	Assignment_2/Assignment_2.c	4;"	d	file:
+MAX	Assignment_2/Assignment_2_1.c	4;"	d	file:
+MAX	Assignment_5/Assignment_5.c	5;"	d	file:
+MAX	Assignment_5/case_conversion.c	4;"	d	file:
+MAX	Assignment_5/file.c	5;"	d	file:
+MY_HEADER	Assignment_2/my_header.h	2;"	d
+a	Assignment_1/Assignment_1_0.c	/^int a;$/;"	v
+a	Assignment_1/Assignment_1_1.c	/^int a;$/;"	v
+add	Assignment_3/Assignment_3.c	/^int add (int a, int b) { return (a + b); }$/;"	f
+b	Assignment_1/Assignment_1_0.c	/^int b;$/;"	v
+b	Assignment_1/Assignment_1_1.c	/^int b;			\/\/used for counting the bits$/;"	v
+bit_copy	Assignment_1/Assignment_1_0.c	/^void bit_copy (int snum, int dnum, int n, int s, int d)$/;"	f
+bit_copy	Assignment_1/Assignment_1_1.c	/^void bit_copy (int snum, int dnum, int n, int s, int d)$/;"	f
+bit_swap	Assignment_1/Assignment_1_0.c	/^int bit_swap (int n, int s, int d)$/;"	f
+bit_swap	Assignment_1/Assignment_1_1.c	/^int bit_swap (int n, int s, int d)$/;"	f
+bit_ts	Assignment_1/Assignment_1_0.c	17;"	d	file:
+bit_ts	Assignment_1/Assignment_1_1.c	21;"	d	file:
+buf	Assignment_5/Assignment_5.c	/^char buf[MAX];		\/\/used to store the data from file $/;"	v
+buf	my_printf.c	/^unsigned char buf[16];$/;"	v
+c	Assignment_1/Assignment_1_0.c	/^int c;$/;"	v
+c	Assignment_1/Assignment_1_1.c	/^int c;$/;"	v
+c1	Assignment_1/Assignment_1_0.c	/^int c1 = 0;                                                                 $/;"	v
+c1	Assignment_1/Assignment_1_1.c	/^int c1;    \/\/used for counting the 1's in finding max number in given 2 numbers$/;"	v
+c2	Assignment_1/Assignment_1_0.c	/^int c2 = 0;  $/;"	v
+c2	Assignment_1/Assignment_1_1.c	/^int c2;    \/\/used for counting the 1's in finding max number in given 2 numbers$/;"	v
+case_conversion	Assignment_5/case_conversion.c	/^char *case_conversion (char * str)$/;"	f
+ch	Assignment_2/Assignment_2.c	/^char ch;$/;"	v
+ch	Assignment_2/Assignment_2_1.c	/^char ch;$/;"	v
+char_add_instr	Assignment_2/3_firstchar.c	/^char *char_add_instr (char *buf, char ch)$/;"	f
+clear_leftmost_set_bit	Assignment_1/Assignment_1_0.c	52;"	d	file:
+clear_leftmost_set_bit	Assignment_1/Assignment_1_1.c	56;"	d	file:
+clear_rightmost_set_bit	Assignment_1/Assignment_1_0.c	41;"	d	file:
+clear_rightmost_set_bit	Assignment_1/Assignment_1_1.c	45;"	d	file:
+clearbits_s_d	Assignment_1/Assignment_1_0.c	86;"	d	file:
+clearbits_s_d	Assignment_1/Assignment_1_1.c	90;"	d	file:
+cnt_leading_cleared_bits	Assignment_1/Assignment_1_0.c	/^int cnt_leading_cleared_bits (int num)                                          $/;"	f
+cnt_leading_cleared_bits	Assignment_1/Assignment_1_1.c	/^int cnt_leading_cleared_bits (int num)                                          $/;"	f
+cnt_leading_set_bits	Assignment_1/Assignment_1_0.c	/^int cnt_leading_set_bits (int num)                                              $/;"	f
+cnt_leading_set_bits	Assignment_1/Assignment_1_1.c	/^int cnt_leading_set_bits (int num)                                              $/;"	f
+cnt_trailing_cleared_bits	Assignment_1/Assignment_1_0.c	/^int cnt_trailing_cleared_bits (int num)                                         $/;"	f
+cnt_trailing_cleared_bits	Assignment_1/Assignment_1_1.c	/^int cnt_trailing_cleared_bits (int num)                                         $/;"	f
+cnt_trailing_set_bits	Assignment_1/Assignment_1_0.c	/^int cnt_trailing_set_bits (int num)                                             $/;"	f
+cnt_trailing_set_bits	Assignment_1/Assignment_1_1.c	/^int cnt_trailing_set_bits (int num)                                             $/;"	f
+count	Assignment_2/8_charcount_strspn.c	/^int count = 0;$/;"	v
+count_bit_clear	Assignment_1/Assignment_1_0.c	/^void count_bit_clear (int n)                                                    $/;"	f
+count_bit_clear	Assignment_1/Assignment_1_1.c	/^void count_bit_clear (int n)                                                    $/;"	f
+count_bit_set	Assignment_1/Assignment_1_0.c	/^void count_bit_set (int n)                                                      $/;"	f
+count_bit_set	Assignment_1/Assignment_1_1.c	/^void count_bit_set (int n)                                                      $/;"	f
+d	Assignment_1/Assignment_1_0.c	/^int d;$/;"	v
+d	Assignment_1/Assignment_1_1.c	/^int d;			\/\/used for destination position$/;"	v
+divi	Assignment_3/Assignment_3.c	/^int divi (int a, int b)$/;"	f
+dnum	Assignment_1/Assignment_1_0.c	/^int dnum;$/;"	v
+dnum	Assignment_1/Assignment_1_1.c	/^int dnum;		\/\/used for accessing the numbers in all programs $/;"	v
+even_bit_toggle	Assignment_1/Assignment_1_0.c	/^int even_bit_toggle (int num)$/;"	f
+even_bit_toggle	Assignment_1/Assignment_1_1.c	/^int even_bit_toggle (int num)$/;"	f
+fp1	Assignment_5/Assignment_5.c	/^FILE *fp1, *fp2;	\/\/used to point file descriptors in files$/;"	v
+fp2	Assignment_5/Assignment_5.c	/^FILE *fp1, *fp2;	\/\/used to point file descriptors in files$/;"	v
+func_ptr	Assignment_3/Assignment_3.c	/^int (*func_ptr) (int, int);$/;"	v
+getbits	Assignment_1/Assignment_1_0.c	101;"	d	file:
+getbits	Assignment_1/Assignment_1_1.c	105;"	d	file:
+great	Assignment_1/Assignment_1_0.c	30;"	d	file:
+great	Assignment_1/Assignment_1_1.c	34;"	d	file:
+i	Assignment_1/Assignment_1_0.c	/^int i;$/;"	v
+i	Assignment_1/Assignment_1_1.c	/^int i;			\/\/used in loops$/;"	v
+i	Assignment_2/3_firstchar.c	/^int i;$/;"	v
+i	Assignment_2/Assignment_2.c	/^int i;$/;"	v
+i	Assignment_2/Assignment_2_1.c	/^int i;$/;"	v
+insert_char	Assignment_2/15_insertchar.c	/^char *insert_char (char *s, char ch, int pos)$/;"	f
+int_valid	Assignment_1/int_valid.c	/^int  int_valid(char *arr)$/;"	f
+int_valid	Assignment_1/int_valid_1.c	/^int  int_valid(char *arr)$/;"	f
+invert	Assignment_1/Assignment_1_0.c	/^int invert (int x, int p, int n)                                                $/;"	f
+invert	Assignment_1/Assignment_1_1.c	/^int invert (int x, int p, int n)                                                $/;"	f
+j	Assignment_1/Assignment_1_0.c	/^int j;$/;"	v
+j	Assignment_1/Assignment_1_1.c	/^int j;			\/\/used in loops $/;"	v
+j	Assignment_2/Assignment_2.c	/^int j;$/;"	v
+j	Assignment_2/Assignment_2_1.c	/^int j;$/;"	v
+k	Assignment_2/Assignment_2.c	/^int k;$/;"	v
+k	Assignment_2/Assignment_2_1.c	/^int k;$/;"	v
+l	Assignment_1/Assignment_1_0.c	/^int l;$/;"	v
+l	Assignment_1/Assignment_1_1.c	/^int l;			\/\/used for holding particular bit in a number$/;"	v
+left_rotate_bits	Assignment_1/Assignment_1_0.c	/^int left_rotate_bits (int num)$/;"	f
+left_rotate_bits	Assignment_1/Assignment_1_1.c	/^int left_rotate_bits (int num)$/;"	f
+left_rotate_n_bits	Assignment_1/Assignment_1_0.c	/^int left_rotate_n_bits (int num, int n)$/;"	f
+left_rotate_n_bits	Assignment_1/Assignment_1_1.c	/^int left_rotate_n_bits (int num, int n)$/;"	f
+len1	Assignment_2/Assignment_2.c	/^int len1;$/;"	v
+len1	Assignment_2/Assignment_2_1.c	/^int len1;$/;"	v
+len2	Assignment_2/Assignment_2.c	/^int len2;$/;"	v
+len2	Assignment_2/Assignment_2_1.c	/^int len2;$/;"	v
+m	Assignment_1/Assignment_1_0.c	/^int m;$/;"	v
+m	Assignment_1/Assignment_1_1.c	/^int m;			\/\/used for holding particular bit in a number $/;"	v
+m	Assignment_2/Assignment_2.c	/^int m;$/;"	v
+m	Assignment_2/Assignment_2_1.c	/^int m;$/;"	v
+main	Assignment_1/Assignment_1_0.c	/^int main (void)$/;"	f
+main	Assignment_1/Assignment_1_1.c	/^int main (void)$/;"	f
+main	Assignment_1/int_valid.c	/^int main(void)$/;"	f
+main	Assignment_1/valid.c	/^void main()$/;"	f
+main	Assignment_2/Assignment_2.c	/^int main (void)$/;"	f
+main	Assignment_2/Assignment_2_1.c	/^int main (void)$/;"	f
+main	Assignment_3/Assignment_3.c	/^int main(int argc, unsigned char *argv[])$/;"	f
+main	Assignment_4/Assignment_4.c	/^int main (void)$/;"	f
+main	Assignment_5/Assignment_5.c	/^int main (void)$/;"	f
+main	Assignment_5/file.c	/^int main (void)$/;"	f
+main	my_printf.c	/^int main (void)$/;"	f
+mul	Assignment_3/Assignment_3.c	/^int mul (int a, int b) { return (a * b); }$/;"	f
+my_atoi	Assignment_3/Assignment_3.c	/^int my_atoi (char *p)                                                           $/;"	f
+my_atoi	Assignment_3/atoi.c	/^int my_atoi (char *p)$/;"	f
+my_atoi	atoi.c	/^int my_atoi (char *p)$/;"	f
+my_is_alpha	Assignment_2/7_stringcasecomp.c	/^int my_is_alpha(char a)$/;"	f
+my_reverse	Assignment_2/11_reverse.c	/^char *my_reverse(char *str)$/;"	f
+my_squeze	Assignment_2/12_squeze.c	/^char *my_squeze(char *str)$/;"	f
+my_strcasecmp	Assignment_2/7_stringcasecomp.c	/^char my_strcasecmp (char *str1, char *str2)$/;"	f
+my_strcmp	Assignment_2/6_stringcomp.c	/^char my_strcmp (char *str1, char *str2)$/;"	f
+my_strcpy	Assignment_2/1_strcpy.c	/^void my_strcpy (char *dbuf, char *sbuf)$/;"	f
+my_strlen	Assignment_2/strlen.c	/^int my_strlen (char *p)$/;"	f
+my_strlen	Assignment_5/strlen.c	/^int my_strlen (char *p)$/;"	f
+my_strncpy	Assignment_2/2_strncpy.c	/^void my_strncpy (char *dbuf, char *sbuf, int n)$/;"	f
+my_strrot	Assignment_2/13_stringrotate.c	/^int my_strrot(const char *str, const char *rstr)                                $/;"	f
+my_strspn	Assignment_2/8_charcount_strspn.c	/^size_t my_strspn(const char *buf1, const char *buf2)$/;"	f
+my_strtok	Assignment_2/9_strtok.c	/^char * my_strtok(const char *buf, const char *delim)$/;"	f
+n	Assignment_1/Assignment_1_0.c	/^int n;	$/;"	v
+n	Assignment_1/Assignment_1_1.c	/^int n;			\/\/used for accessing no. of bits$/;"	v
+n	Assignment_2/Assignment_2.c	/^int n;$/;"	v
+n	Assignment_2/Assignment_2_1.c	/^int n;$/;"	v
+num	Assignment_1/Assignment_1_0.c	/^int num;$/;"	v
+num	Assignment_1/Assignment_1_1.c	/^int num;		\/\/used for accessing number$/;"	v
+odd_bit_toggle	Assignment_1/Assignment_1_0.c	/^int odd_bit_toggle (int num)$/;"	f
+odd_bit_toggle	Assignment_1/Assignment_1_1.c	/^int odd_bit_toggle (int num)$/;"	f
+offset	Assignment_2/7_stringcasecomp.c	2;"	d	file:
+offset	Assignment_5/case_conversion.c	3;"	d	file:
+op	Assignment_1/Assignment_1_0.c	/^int op;$/;"	v
+op	Assignment_1/Assignment_1_1.c	/^int op;			\/\/used to select the functions in some programs$/;"	v
+p	Assignment_1/Assignment_1_0.c	/^int p;                                                                      $/;"	v
+p	Assignment_1/Assignment_1_1.c	/^int p;                                                                      $/;"	v
+p	Assignment_2/Assignment_2.c	/^char *p = NULL;$/;"	v
+p	Assignment_2/Assignment_2_1.c	/^char *p = NULL;$/;"	v
+pos	Assignment_1/Assignment_1_0.c	/^int pos;$/;"	v
+pos	Assignment_1/Assignment_1_1.c	/^int pos;		\/\/used in all the programs for accessing the position in a num$/;"	v
+pos	Assignment_2/Assignment_2.c	/^unsigned int pos;$/;"	v
+pos	Assignment_2/Assignment_2_1.c	/^unsigned int pos;$/;"	v
+program1	Assignment_5/Assignment_5.c	/^int program1 (void)                                                                 $/;"	f
+program2	Assignment_5/Assignment_5.c	/^int program2 (void)                                                                 $/;"	f
+program3	Assignment_5/Assignment_5.c	/^int program3(void)$/;"	f
+program4	Assignment_5/Assignment_5.c	/^int program4(void)$/;"	f
+program5	Assignment_5/Assignment_5.c	/^int program5(void)$/;"	f
+remstr	Assignment_2/14_removestring.c	/^char *remstr(char *str, const char *sstr)$/;"	f
+right_rotate_bits	Assignment_1/Assignment_1_0.c	/^int right_rotate_bits (int num)$/;"	f
+right_rotate_bits	Assignment_1/Assignment_1_1.c	/^int right_rotate_bits (int num)$/;"	f
+right_rotate_n_bits	Assignment_1/Assignment_1_0.c	/^int right_rotate_n_bits (int num, int n)$/;"	f
+right_rotate_n_bits	Assignment_1/Assignment_1_1.c	/^int right_rotate_n_bits (int num, int n)$/;"	f
+s	Assignment_1/Assignment_1_0.c	/^int s;$/;"	v
+s	Assignment_1/Assignment_1_1.c	/^int s;			\/\/used for source position$/;"	v
+sappend	Assignment_2/4_strcat.c	/^char *sappend(char *str1, char *str2)$/;"	f
+set_leftmost_cleared_bit	Assignment_1/Assignment_1_0.c	71;"	d	file:
+set_leftmost_cleared_bit	Assignment_1/Assignment_1_1.c	75;"	d	file:
+set_rightmost_cleared_bit	Assignment_1/Assignment_1_0.c	62;"	d	file:
+set_rightmost_cleared_bit	Assignment_1/Assignment_1_1.c	66;"	d	file:
+setbits_copy	Assignment_1/Assignment_1_0.c	/^void setbits_copy (int x, int p, int n, int y)                                  $/;"	f
+setbits_copy	Assignment_1/Assignment_1_1.c	/^void setbits_copy (int x, int p, int n, int y)                                  $/;"	f
+setbits_s_d	Assignment_1/Assignment_1_0.c	79;"	d	file:
+setbits_s_d	Assignment_1/Assignment_1_1.c	83;"	d	file:
+showbits	Assignment_1/showbits.c	/^void showbits (int num)                                                         $/;"	f
+showbits	Assignment_4/showbits.c	/^void showbits (int num)                                                         $/;"	f
+showbits	showbits.c	/^void showbits (int num)                                                         $/;"	f
+snappend	Assignment_2/5_strncat.c	/^char *snappend(char *str1, char *str2,int n)$/;"	f
+snum	Assignment_1/Assignment_1_0.c	/^int snum;$/;"	v
+snum	Assignment_1/Assignment_1_1.c	/^int snum;		\/\/used for accessing the numbers in all programs$/;"	v
+string_palindrome	Assignment_2/10_stringpalindrome.c	/^void string_palindrome(char *str)$/;"	f
+sub	Assignment_3/Assignment_3.c	/^int sub (int a, int b) { return (a - b); }$/;"	f
+temp	Assignment_1/Assignment_1_0.c	/^unsigned int temp;$/;"	v
+temp	Assignment_1/Assignment_1_1.c	/^unsigned int temp;$/;"	v
+temp	Assignment_2/14_removestring.c	/^char temp[100];$/;"	v
+temp	Assignment_2/9_strtok.c	/^char temp[100];$/;"	v
+temp	Assignment_2/Assignment_2.c	/^char temp[100];$/;"	v
+temp	Assignment_2/Assignment_2_1.c	/^char temp[100];$/;"	v
+togglebits_s_d	Assignment_1/Assignment_1_0.c	93;"	d	file:
+togglebits_s_d	Assignment_1/Assignment_1_1.c	97;"	d	file:
+x	Assignment_1/Assignment_1_0.c	/^int x;$/;"	v
+x	Assignment_1/Assignment_1_1.c	/^int x;$/;"	v
+y	Assignment_1/Assignment_1_0.c	/^int y;                                                                      $/;"	v
+y	Assignment_1/Assignment_1_1.c	/^int y;                                                                      $/;"	v

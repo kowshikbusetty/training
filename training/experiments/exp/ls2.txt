@@ -1,0 +1,17 @@
+abc.txt
+assignment
+Desktop
+Documents
+Downloads
+examples.desktop
+kowshik
+Linux_commands-1-1.pdf
+ls.txt
+Music
+p2.c
+Pictures
+Public
+sample.txt
+Templates
+thunderbird.tar
+Videos

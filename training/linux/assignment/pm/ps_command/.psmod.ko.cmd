@@ -1,0 +1,1 @@
+cmd_/home/kowshik/training/linux/assignment/pm/ps_command/psmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/kowshik/training/linux/assignment/pm/ps_command/psmod.ko /home/kowshik/training/linux/assignment/pm/ps_command/psmod.o /home/kowshik/training/linux/assignment/pm/ps_command/psmod.mod.o

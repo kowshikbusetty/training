@@ -1,0 +1,1 @@
+cmd_/home/kowshik/training/linux/pm/cow/cow_kmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/kowshik/training/linux/pm/cow/cow_kmod.ko /home/kowshik/training/linux/pm/cow/cow_kmod.o /home/kowshik/training/linux/pm/cow/cow_kmod.mod.o

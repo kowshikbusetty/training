@@ -1,0 +1,1 @@
+cmd_/home/kowshik/training/linux/mm/pgd3/mm_pgd.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/kowshik/training/linux/mm/pgd3/mm_pgd.ko /home/kowshik/training/linux/mm/pgd3/mm_pgd.o /home/kowshik/training/linux/mm/pgd3/mm_pgd.mod.o

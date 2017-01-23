@@ -1,0 +1,17 @@
+#include/*haiiiiiiiii*/  <stdio.h>
+#include <std/*hello*/io.h>
+
+//i am ath the edge
+/*theh:w*/
+/*hhqrhh*nhbnjj
+gllyui6*/
+int main(void)
+{
+
+	printf ("//enter the/* hello*/ number \n");///hiiiiiiiiiii
+
+	return 0;/*hiiiiiiiii0123*/
+/*
+/abg
+
+}
